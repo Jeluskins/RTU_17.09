@@ -1,0 +1,328 @@
+
+
+* {
+    font-family: 'Comic Neue', cursive;
+}
+
+body {
+    background-color: #0e4673;
+    opacity: 1;
+    background-image:  radial-gradient(#444CF7 0.8px, transparent 0.8px), radial-gradient(#444CF7 0.8px, #0e4673 0.8px);
+    background-size: 32px 32px;
+    background-position: 0 0,16px 16px;
+    margin: 0;
+    font-size: 1em;
+    text-align: center;
+    height: 100vh;
+
+    display: grid;
+    grid-gap: 10px;
+    
+    grid-template-areas:
+        "header"
+        "hero"
+        "body"
+        "footer"
+}
+
+header {
+    padding: 0.3em;
+    grid-area: header;
+
+    display: grid;
+    grid-gap: 2em;
+    grid-template-areas:
+        "h-one h-one"
+        "h-two h-three";
+}
+
+header .h-one {
+    
+    border-radius: 25px;
+    background:  #085ea0;
+    grid-area: h-one;
+}
+header .h-one:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    background-color: #084aa0;
+    grid-row: auto;
+    overflow: visible;
+}
+
+
+header .h-two {
+    border-radius: 25px;
+    background: #085ea0;
+    grid-area: h-two;
+}
+header .h-two:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    background-color: #084aa0;
+    grid-row: auto;
+    overflow: visible;
+}
+
+header .h-three {
+    border-radius: 25px;
+    background: #085ea0;
+    grid-area: h-three;
+}
+header .h-three:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    background-color: #084aa0;
+    grid-row: auto;
+    overflow: visible;
+}
+
+
+.hero {
+    padding: 0.3em;
+    grid-area: hero;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    grid-template-areas:
+        "Hero-one";
+}
+
+.hero .Hero-one {
+    border-radius: 25px;
+    background:#085ea0;
+    grid-area: Hero-one;
+}
+.hero .Hero-one:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    background-color: #084aa0;
+    grid-row: auto;
+    overflow: visible;
+}
+
+.hero .Hero-two {
+    border-radius: 25px;
+    background:#085ea0;
+    grid-area: Hero-two;
+}
+.hero .Hero-two:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    background-color: #084aa0;
+    grid-row: auto;
+    overflow: visible;
+}
+
+
+main {
+    padding: 0.3em;
+    grid-area: body;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+    grid-template-areas: 
+        "M-one"
+        "ad"
+        "M-two";
+}
+
+main .M-one {
+    border-radius: 25px;
+    background: #085ea0;
+    grid-area: M-one;
+}
+main .M-one:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    background-color: #084aa0;
+    grid-row: auto;
+    overflow: visible;
+}
+
+main .mobile-ad {
+    
+    grid-area: ad;
+}
+
+main .M-two {
+    border-radius: 25px;
+    background: #085ea0;
+    grid-area: M-two;
+}
+main .M-two:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    background-color: #084aa0;
+    grid-row: auto;
+    overflow: visible;
+}
+
+
+footer {
+    border-radius: 25px;
+    background:  #085ea0;
+    padding: 10px;
+    grid-area: footer;
+}
+footer:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    background-color: #084aa0;
+    grid-row: auto;
+    overflow: visible;
+}
+
+.desktop-ad {
+    grid-area: ad;
+    display: none;
+}
+
+.hero .Hero-two {
+    display: none;
+}
+
+
+.sidebar {
+    padding: 0.3em;
+    grid-area: sidebar;
+    
+
+    display: none;
+}
+
+.sidebar .S-one {
+    border-radius: 25px;
+    background:#085ea0;
+    height: 100%;
+}
+.sidebar .S-one:hover{
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    background-color: #084aa0;
+    grid-row: auto;
+    overflow: visible;
+}
+
+
+.mobile-ad img {
+    vertical-align: top;
+    width: 100%;
+}
+
+.desktop-ad img {
+    vertical-align: top;
+    width: 350px;
+}
+
+.mobile-ad:hover {
+   position: absolute;
+   left: 50%;
+   top: 50%; 
+   margin-left: -150px;
+   margin-top: -150px;
+}
+
+.desktop-ad:hover {
+    position: absolute;
+    left: 50%;
+    top: 50%; 
+    margin-left: -150px;
+    margin-top: -150px;
+}
+
+
+@media (min-width: 576px) {
+    body {
+        grid-template-rows: auto auto 1fr auto auto;
+        grid-template-areas:
+            "header"
+            "hero"
+            "body"
+            "sidebar"
+            "footer";
+    }
+
+   
+    header {
+        grid-template-columns: 1fr 2fr 1fr;
+        grid-template-areas:
+            "h-one h-two h-three";
+    }
+
+  
+    .hero {
+        grid-template-areas:
+            "Hero-two"
+            "Hero-one";
+    }
+
+    .hero .Hero-two {
+        display: block;
+    }
+
+   
+    main {
+        grid-template-columns: 1fr 200px;
+        grid-template-rows: auto 1fr;
+        grid-template-areas:
+            "M-one ad"
+            "M-two M-two";
+    }
+
+   
+    .sidebar {
+        display: grid;
+    }
+
+    .mobile-ad img {
+        width: 200px;
+    }
+}
+
+
+@media (min-width: 992px) {
+    body {
+        grid-template-columns: 1fr 350px;
+        grid-template-rows: auto auto 1fr auto;
+        grid-template-areas:
+            "header header"
+            "hero ad"
+            "body sidebar"
+            "footer footer"
+    }
+
+
+    .hero {
+        grid-template-columns: 2fr 1fr;
+        grid-template-areas:
+            "Hero-two Hero-one"
+    }
+
+
+    main {
+        grid-template-columns: 1fr 2fr;
+        grid-template-rows: 1fr;
+        grid-template-areas:
+            "M-one M-two"
+    }
+
+    .mobile-ad {
+        display: none;
+    }
+
+    .desktop-ad {
+        display: block;
+    }
+}
+
+@keyframes shake {
+    10%, 90% {
+      transform: translate3d(-1px, 0, 0);
+    }
+    
+    20%, 80% {
+      transform: translate3d(2px, 0, 0);
+    }
+  
+    30%, 50%, 70% {
+      transform: translate3d(-4px, 0, 0);
+    }
+  
+    40%, 60% {
+      transform: translate3d(4px, 0, 0);
+    }
+  }
