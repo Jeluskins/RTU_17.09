@@ -1,0 +1,260 @@
+*{
+    z-index:100;
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    position:absolute;
+    z-index:0;
+    display:block;
+}
+
+.hero-image {
+    height: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+body {
+    font-family: Tahoma, sans-serif;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+}
+footer {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Tahoma, sans-serif;
+    text-shadow: 0 0 10px rgb(113, 230, 59), 0 0 40px rgb(113, 230, 59), 0 0 80px rgb(113, 230, 59);
+
+}
+
+.buttons {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnRefresh {
+    padding: 10px 30px;
+    margin: 4px 2px;
+    font-weight: bold;
+    cursor: pointer;
+
+    border-color: black;
+    border-radius: 5px;
+
+    font-family: Tahoma, sans-serif;
+    justify-content: center;
+    align-items: center;
+    background: #031321;
+    color: gray;
+    font-family: Tahoma, sans-serif;
+}
+
+.btnRefresh:hover {
+    cursor: not-allowed
+    color: rgb(113, 230, 59);
+    border-color: rgb(113, 230, 59);
+    background: rgb(113, 230, 59);
+    box-shadow: 0 0 10px rgb(113, 230, 59), 0 0 40px rgb(113, 230, 59), 0 0 80px rgb(113, 230, 59);
+
+}
+
+.buttons #btnFizz {
+
+    background-color: rgb(184, 25, 25);
+    padding: 10px 30px;
+    margin: 4px 2px;
+    font-weight: bold;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 5px;
+    font-family: Tahoma, sans-serif;
+}
+
+
+.buttons #btnBuzz {
+
+    background-color: rgb(22, 22, 179);
+    padding: 10px 30px;
+    margin: 4px 2px;
+    font-weight: bold;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 5px;
+    font-family: Tahoma, sans-serif;
+}
+
+
+.buttons #btnFizzBuzz {
+
+    background: linear-gradient(120deg, rgb(22, 22, 179) 50%,rgb(184, 25, 25)50%);
+    padding: 10px 30px;
+    margin: 4px 2px;
+    font-weight: bold;
+    cursor: pointer;
+    border-color: black;
+    border-radius: 5px;
+    font-family: Tahoma, sans-serif;
+}
+
+#btnFizz:hover {
+
+   cursor: not-allowed
+    color: rgb(113, 230, 59);
+    border-color: rgb(113, 230, 59);
+    background: rgb(113, 230, 59);
+    box-shadow: 0 0 10px rgb(113, 230, 59), 0 0 40px rgb(113, 230, 59), 0 0 80px rgb(113, 230, 59);
+}
+
+#btnBuzz:hover {
+
+    cursor: not-allowed
+    color: rgb(113, 230, 59);
+    border-color: rgb(113, 230, 59);
+    background: rgb(113, 230, 59);
+    box-shadow: 0 0 10px rgb(113, 230, 59), 0 0 40px rgb(113, 230, 59), 0 0 80px rgb(113, 230, 59);
+}
+
+#btnFizzBuzz:hover {
+
+    cursor: not-allowed
+    color: rgb(113, 230, 59);
+    border-color: rgb(113, 230, 59);
+    background: rgb(113, 230, 59);
+    box-shadow: 0 0 10px rgb(113, 230, 59), 0 0 40px rgb(113, 230, 59), 0 0 80px rgb(113, 230, 59);
+}
+
+
+
+
+#fizzBuzzOutput {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    font-size: 16px;
+
+    font-weight: bold;
+    
+
+}
+
+#fizzBuzzOutput .other {
+
+    grid-gap: .5em;
+    padding: .5em;
+    border: 0.2em solid black;
+    border-radius: 1em;
+    background-color: black;
+    color:rgb(117, 206, 76);
+    text-align: center;
+    width: 5em;
+    height: 2em;
+    margin: 0.2em;
+    
+}
+
+#fizzBuzzOutput .only5 {
+    grid-gap: .5em;
+    padding: .5em;
+    border: 0.2em solid black;
+    border-radius: 1em;
+    background-color: rgb(22, 22, 179);
+    text-align: center;
+    width: 5em;
+    height: 2em;
+    margin: 0.2em;
+}
+
+#fizzBuzzOutput .only5:hover {
+
+    cursor: not-allowed
+    color:  rgb(22, 22, 179);
+    border-color:  rgb(22, 22, 179);
+    background:  rgb(22, 22, 179);
+    box-shadow: 0 0 10px  rgb(22, 22, 179), 0 0 40px  rgb(22, 22, 179), 0 0 80px  rgb(22, 22, 179);
+}
+
+#fizzBuzzOutput .and35 {
+    grid-gap: .5em;
+    padding: .5em;
+    border: 0.2em solid black;
+    border-radius: 1em;
+    background: linear-gradient(120deg, rgb(22, 22, 179) 50%,rgb(184, 25, 25)50%);
+    text-align: center;
+    width: 5em;
+    height: 2em;
+    margin: 0.2em;
+}
+
+#fizzBuzzOutput .and35:hover {
+
+    cursor: not-allowed
+    color:  rgb(184, 25, 25);
+    border: 0em solid transparent;
+    border-image: linear-gradient(120deg, blue 50%, red 50%);
+    border-image-slice: 2;
+    background:  linear-gradient(120deg, blue 50%, red 50%);
+    box-shadow: -5px -5px 10px 5px blue, 5px 5px 10px 5px red;
+    background: linear-gradient(120deg, blue 50%, red 50%);
+}
+
+#fizzBuzzOutput .only3 {
+
+    grid-gap: .5em;
+    padding: .5em;
+    border: 0.2em solid black;
+    border-radius: 1em;
+    background-color: rgb(184, 25, 25);
+    text-align: center;
+    width: 5em;
+    height: 2em;
+    margin: 0.2em;
+}
+
+#fizzBuzzOutput .only3:hover {
+
+    cursor: not-allowed
+    color:  rgb(184, 25, 25);
+    border-color:  rgb(184, 25, 25);
+    background:  rgb(184, 25, 25);
+    box-shadow: 0 0 10px  rgb(184, 25, 25), 0 0 40px  rgb(184, 25, 25), 0 0 80px  rgb(184, 25, 25);
+}
+
+      
+
+
+      
+@media screen and (max-width: 576px) {
+    #fizzBuzzOutput {
+        column-count: 1;
+        max-width: 20vh;
+    }
+}
+
+@media screen and (min-width: 576px) {
+    #fizzBuzzOutput {
+        column-count: 5;
+        width: 60vh;
+    }
+}
+
+@media screen and (min-width: 912px) {
+    #fizzBuzzOutput {
+        column-count: 10;
+        width: 120vh;
+    }
+}
+
