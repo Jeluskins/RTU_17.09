@@ -52,6 +52,7 @@ function fizzBuzz() {
  
             clearInterval(timer);
         }
+        log(timer.sort(byClass))
     },1);
     return 0;
 }
