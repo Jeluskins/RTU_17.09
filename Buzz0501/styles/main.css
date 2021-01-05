@@ -62,8 +62,7 @@ footer {
 }
 
 .btnRefresh:hover {
-    cursor: not-allowed
-    color: rgb(113, 230, 59);
+    cursor: not-allowed;
     border-color: rgb(113, 230, 59);
     background: rgb(113, 230, 59);
     box-shadow: 0 0 10px rgb(113, 230, 59), 0 0 40px rgb(113, 230, 59), 0 0 80px rgb(113, 230, 59);
@@ -110,8 +109,7 @@ footer {
 
 #btnFizz:hover {
 
-   cursor: not-allowed
-    color: rgb(113, 230, 59);
+   cursor: not-allowed;
     border-color: rgb(113, 230, 59);
     background: rgb(113, 230, 59);
     box-shadow: 0 0 10px rgb(113, 230, 59), 0 0 40px rgb(113, 230, 59), 0 0 80px rgb(113, 230, 59);
@@ -119,7 +117,7 @@ footer {
 
 #btnBuzz:hover {
 
-    cursor: not-allowed
+    cursor: not-allowed;
     color: rgb(113, 230, 59);
     border-color: rgb(113, 230, 59);
     background: rgb(113, 230, 59);
@@ -128,8 +126,7 @@ footer {
 
 #btnFizzBuzz:hover {
 
-    cursor: not-allowed
-    color: rgb(113, 230, 59);
+    cursor: not-allowed;
     border-color: rgb(113, 230, 59);
     background: rgb(113, 230, 59);
     box-shadow: 0 0 10px rgb(113, 230, 59), 0 0 40px rgb(113, 230, 59), 0 0 80px rgb(113, 230, 59);
@@ -180,8 +177,7 @@ footer {
 
 #fizzBuzzOutput .only5:hover {
 
-    cursor: not-allowed
-    color:  rgb(22, 22, 179);
+    cursor: not-allowed;
     border-color:  rgb(22, 22, 179);
     background:  rgb(22, 22, 179);
     box-shadow: 0 0 10px  rgb(22, 22, 179), 0 0 40px  rgb(22, 22, 179), 0 0 80px  rgb(22, 22, 179);
@@ -201,8 +197,7 @@ footer {
 
 #fizzBuzzOutput .and35:hover {
 
-    cursor: not-allowed
-    color:  rgb(184, 25, 25);
+    cursor: not-allowed;
     border: 0em solid transparent;
     border-image: linear-gradient(120deg, blue 50%, red 50%);
     border-image-slice: 2;
@@ -226,8 +221,7 @@ footer {
 
 #fizzBuzzOutput .only3:hover {
 
-    cursor: not-allowed
-    color:  rgb(184, 25, 25);
+    cursor: not-allowed;
     border-color:  rgb(184, 25, 25);
     background:  rgb(184, 25, 25);
     box-shadow: 0 0 10px  rgb(184, 25, 25), 0 0 40px  rgb(184, 25, 25), 0 0 80px  rgb(184, 25, 25);
