@@ -1,0 +1,573 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.19904, 11.24079 ]
+    },
+    "properties" : {
+      "titles" : "Santa Marta",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3668605" ],
+    "titles" : [ "Santa Marta" ],
+    "names" : [ "Santa Marta", "Santa Marta", "Santa Marta", "Santa Marta", "Santa Marta", "Santa Marta" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.28189, 2.9273 ]
+    },
+    "properties" : {
+      "titles" : "Neiva",
+      "annotations" : 4
+    },
+    "uris" : [ "http://sws.geonames.org/3673899" ],
+    "titles" : [ "Neiva" ],
+    "names" : [ "Нейва", "Neiva" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.36334, 5.08236 ]
+    },
+    "properties" : {
+      "titles" : "Garagoa",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3682160" ],
+    "titles" : [ "Garagoa" ],
+    "names" : [ "Garagoa", "加拉戈阿" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.26768, 6.81532 ]
+    },
+    "properties" : {
+      "titles" : "Zapatoca",
+      "annotations" : 4
+    },
+    "uris" : [ "http://sws.geonames.org/3665587" ],
+    "titles" : [ "Zapatoca" ],
+    "names" : [ "Zapatoca" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.00159, 5.72992 ]
+    },
+    "properties" : {
+      "titles" : "Pore",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3671901" ],
+    "titles" : [ "Pore" ],
+    "names" : [ "Municipio Pore", "Pore", "Pore" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.844477, 5.828615 ]
+    },
+    "properties" : {
+      "titles" : "Corrales",
+      "annotations" : 1
+    },
+    "uris" : [ "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5000532" ],
+    "titles" : [ "Corrales" ],
+    "names" : [ "Corrales" ],
+    "place_types" : [ "Poblacion" ],
+    "source_gazetteers" : [ "indias_13k_slim" ],
+    "comments" : [ "Unclear" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.21864, 3.22052 ]
+    },
+    "properties" : {
+      "titles" : "Villavieja",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3665898" ],
+    "titles" : [ "Villavieja" ],
+    "names" : [ "Villa Vieja", "Villavieja" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.6791, 5.8771 ]
+    },
+    "properties" : {
+      "titles" : "Puente Nacional",
+      "annotations" : 1
+    },
+    "uris" : [ "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5000437" ],
+    "titles" : [ "Puente Nacional" ],
+    "names" : [ "Puente Real" ],
+    "place_types" : [ "Poblacion" ],
+    "source_gazetteers" : [ "indias_13k_slim" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.50436, 5.05227 ]
+    },
+    "properties" : {
+      "titles" : "Tibirita",
+      "annotations" : 1
+    },
+    "uris" : [ "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5000540" ],
+    "titles" : [ "Tibirita" ],
+    "names" : [ "Tibirita" ],
+    "place_types" : [ "Poblacion" ],
+    "source_gazetteers" : [ "indias_13k_slim" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.41137, 10.32944 ]
+    },
+    "properties" : {
+      "titles" : "Turbaco",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3666577" ],
+    "titles" : [ "Turbaco" ],
+    "names" : [ "Turbaco" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.60761, 5.08154 ]
+    },
+    "properties" : {
+      "titles" : "Machetá",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3675757" ],
+    "titles" : [ "Machetá" ],
+    "names" : [ "Machetá" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.08175, 4.60971 ]
+    },
+    "properties" : {
+      "titles" : "Bogotá",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3688689" ],
+    "titles" : [ "Bogotá" ],
+    "names" : [ "Μπογκοτά", "Bogotá", "Bogotá", "Bogota", "Bogotá", "بوغوتا", "Bogotá", "ボゴタ", "Bogotá", "Санта-Фе-де-Богота", "波哥大", "Богота", "Santafé de Bogotá", "Santafe de Bogotá", "বোগোতা", "बोगोटा", "ਬੋਗੋਤਾ" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.93004, 3.75118 ]
+    },
+    "properties" : {
+      "titles" : "Prado",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3671765" ],
+    "titles" : [ "Prado" ],
+    "names" : [ "Prado" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.81575, 5.30933 ]
+    },
+    "properties" : {
+      "titles" : "Ubaté",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3666519" ],
+    "titles" : [ "Ubaté" ],
+    "names" : [ "Ubaté" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.42077, 5.07664 ]
+    },
+    "properties" : {
+      "titles" : "Tenza",
+      "annotations" : 4
+    },
+    "uris" : [ "http://sws.geonames.org/3667288" ],
+    "titles" : [ "Tenza" ],
+    "names" : [ "Tensa", "Tenza" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.90977, 4.86242 ]
+    },
+    "properties" : {
+      "titles" : "Lérida",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3676626" ],
+    "titles" : [ "Lérida" ],
+    "names" : [ "Lérida" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -77.28111, 1.21361 ]
+    },
+    "properties" : {
+      "titles" : "Pasto",
+      "annotations" : 5
+    },
+    "uris" : [ "http://sws.geonames.org/3672778" ],
+    "titles" : [ "Pasto" ],
+    "names" : [ "Pasto", "Pasto", "Pasto", "Pasto", "Pasto", "San Juan de Pasto", "Pasto" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.81556, 1.79861 ]
+    },
+    "properties" : {
+      "titles" : "Tumaco",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3666640" ],
+    "titles" : [ "Tumaco" ],
+    "names" : [ "Tucano", "Tumaco", "Tumaco", "Tumaco", "Тумако", "Tumaco", "San Andrés de Tumaco", "圖馬科" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.26022, 6.46838 ]
+    },
+    "properties" : {
+      "titles" : "Socorro",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/3667887" ],
+    "titles" : [ "Socorro" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ -74.07, 4.83 ], [ -74.06, 4.83 ], [ -74.04, 4.83 ], [ -74.01, 4.82 ], [ -74.02, 4.79 ], [ -74.02, 4.77 ], [ -74.02, 4.69 ], [ -74.01, 4.68 ], [ -74.02, 4.67 ], [ -74.03, 4.66 ], [ -74.03, 4.66 ], [ -74.03, 4.65 ], [ -74.03, 4.64 ], [ -74.01, 4.63 ], [ -74, 4.63 ], [ -74.01, 4.57 ], [ -74.03, 4.56 ], [ -74.04, 4.55 ], [ -74.06, 4.5 ], [ -74.08, 4.49 ], [ -74.09, 4.47 ], [ -74.11, 4.45 ], [ -74.11, 4.44 ], [ -74.12, 4.43 ], [ -74.12, 4.4 ], [ -74.11, 4.38 ], [ -74.1, 4.37 ], [ -74.11, 4.34 ], [ -74.15, 4.28 ], [ -74.15, 4.26 ], [ -74.15, 4.25 ], [ -74.14, 4.21 ], [ -74.12, 4.18 ], [ -74.1, 4.16 ], [ -74.09, 4.14 ], [ -74.09, 4.13 ], [ -74.1, 4.12 ], [ -74.11, 4.11 ], [ -74.12, 4.1 ], [ -74.13, 4.1 ], [ -74.13, 4.09 ], [ -74.14, 4.06 ], [ -74.15, 4.01 ], [ -74.21, 4.02 ], [ -74.22, 4.01 ], [ -74.24, 3.97 ], [ -74.26, 3.95 ], [ -74.28, 3.92 ], [ -74.3, 3.9 ], [ -74.31, 3.89 ], [ -74.31, 3.88 ], [ -74.31, 3.87 ], [ -74.32, 3.84 ], [ -74.34, 3.81 ], [ -74.4, 3.73 ], [ -74.41, 3.7 ], [ -74.42, 3.69 ], [ -74.42, 3.69 ], [ -74.43, 3.68 ], [ -74.44, 3.68 ], [ -74.46, 3.68 ], [ -74.49, 3.7 ], [ -74.42, 3.8 ], [ -74.4, 3.85 ], [ -74.37, 3.91 ], [ -74.36, 3.93 ], [ -74.36, 3.95 ], [ -74.36, 3.96 ], [ -74.36, 3.97 ], [ -74.37, 3.99 ], [ -74.37, 4 ], [ -74.37, 4.01 ], [ -74.37, 4.03 ], [ -74.34, 4.11 ], [ -74.34, 4.12 ], [ -74.33, 4.13 ], [ -74.31, 4.11 ], [ -74.3, 4.11 ], [ -74.27, 4.1 ], [ -74.27, 4.1 ], [ -74.26, 4.11 ], [ -74.25, 4.15 ], [ -74.25, 4.2 ], [ -74.23, 4.22 ], [ -74.22, 4.24 ], [ -74.21, 4.26 ], [ -74.21, 4.27 ], [ -74.21, 4.29 ], [ -74.2, 4.34 ], [ -74.19, 4.38 ], [ -74.19, 4.39 ], [ -74.2, 4.4 ], [ -74.22, 4.4 ], [ -74.18, 4.5 ], [ -74.18, 4.54 ], [ -74.19, 4.58 ], [ -74.19, 4.59 ], [ -74.2, 4.6 ], [ -74.21, 4.6 ], [ -74.21, 4.61 ], [ -74.22, 4.63 ], [ -74.2, 4.65 ], [ -74.17, 4.66 ], [ -74.17, 4.67 ], [ -74.16, 4.68 ], [ -74.16, 4.68 ], [ -74.16, 4.68 ], [ -74.17, 4.68 ], [ -74.17, 4.68 ], [ -74.17, 4.68 ], [ -74.17, 4.69 ], [ -74.17, 4.69 ], [ -74.17, 4.7 ], [ -74.16, 4.71 ], [ -74.15, 4.73 ], [ -74.13, 4.73 ], [ -74.13, 4.74 ], [ -74.11, 4.78 ], [ -74.1, 4.79 ], [ -74.09, 4.8 ], [ -74.08, 4.81 ], [ -74.08, 4.81 ], [ -74.08, 4.82 ], [ -74.08, 4.83 ], [ -74.09, 4.83 ], [ -74.08, 4.84 ], [ -74.07, 4.83 ] ] ] ]
+    },
+    "properties" : {
+      "titles" : "Bogota D.C.",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/3688685" ],
+    "titles" : [ "Bogota D.C." ],
+    "names" : [ "Distrito Especial de Bogotá", "Distrito Capital", "Bogotá D.E.", "Distrito Capital de Santafé de Bogotá", "Bogotá Distrito Especial", "Special Capital District", "Distrito Capital de Bogotá", "Bogota D.C.", "Bogotá D.C.", "Distrito Capital de Bogotá", "Special District of Bogotá", "Distrito Especial", "Bogotá Distrito Especial", "Bogotá D.E.", "Distrito Capital de Santafé de Bogotá", "Distrito Capital", "Bogotá" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.48494, 3.00945 ]
+    },
+    "properties" : {
+      "titles" : "Santander de Quilichao",
+      "annotations" : 4
+    },
+    "uris" : [ "http://sws.geonames.org/3668572" ],
+    "titles" : [ "Santander de Quilichao" ],
+    "names" : [ "Quilichao", "Santander", "Santander de Quilichao" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.619788, 2.410098 ]
+    },
+    "properties" : {
+      "titles" : "Anton Moreno",
+      "annotations" : 1
+    },
+    "uris" : [ "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5600625" ],
+    "titles" : [ "Anton Moreno" ],
+    "names" : [ "Anton Moreno" ],
+    "place_types" : [ "Poblacion" ],
+    "source_gazetteers" : [ "indias_13k_slim" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.35395, 8.23532 ]
+    },
+    "properties" : {
+      "titles" : "Ocaña",
+      "annotations" : 1
+    },
+    "uris" : [ "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5000039" ],
+    "titles" : [ "Ocaña" ],
+    "names" : [ "Ocaña" ],
+    "place_types" : [ "Ciudad" ],
+    "source_gazetteers" : [ "indias_13k_slim" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.93139, 3.85824 ]
+    },
+    "properties" : {
+      "titles" : "Purificacion",
+      "annotations" : 2
+    },
+    "uris" : [ "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5000033" ],
+    "titles" : [ "Purificacion" ],
+    "names" : [ "Purificacion" ],
+    "place_types" : [ "Villa" ],
+    "source_gazetteers" : [ "indias_13k_slim" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.99315, 6.18789 ]
+    },
+    "properties" : {
+      "titles" : "San Carlos",
+      "annotations" : 3
+    },
+    "uris" : [ "http://sws.geonames.org/3670000" ],
+    "titles" : [ "San Carlos" ],
+    "names" : [ "San Carlos" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.88333, 5.05 ]
+    },
+    "properties" : {
+      "titles" : "Nemocón",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3673887" ],
+    "titles" : [ "Nemocón" ],
+    "names" : [ "Nemocón" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.93391, 5.71434 ]
+    },
+    "properties" : {
+      "titles" : "Sogamoso",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/3667873" ],
+    "titles" : [ "Sogamoso" ],
+    "names" : [ "Sogamoso", "Sogamoso", "Согамосо", "Sogamoso", "索加莫索" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.14752, 6.28687 ]
+    },
+    "properties" : {
+      "titles" : "Charala",
+      "annotations" : 2
+    },
+    "uris" : [ "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5000429" ],
+    "titles" : [ "Charala" ],
+    "names" : [ "Charala" ],
+    "place_types" : [ "Pueblo" ],
+    "source_gazetteers" : [ "indias_13k_slim" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.55076, 10.423061 ]
+    },
+    "properties" : {
+      "titles" : "Cartagena",
+      "annotations" : 1
+    },
+    "uris" : [ "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5000004" ],
+    "titles" : [ "Cartagena" ],
+    "names" : [ "Cartagena de Indias" ],
+    "place_types" : [ "Ciudad" ],
+    "source_gazetteers" : [ "indias_13k_slim" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -80.88377, 7.96953 ]
+    },
+    "properties" : {
+      "titles" : "La Carrillo",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3707999" ],
+    "titles" : [ "La Carrillo" ],
+    "names" : [ "Los Carrillos", "La Carrillo" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ],
+    "comments" : [ "Unclear" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.89295, 5.19889 ]
+    },
+    "properties" : {
+      "titles" : "Mariquita",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/3675252" ],
+    "titles" : [ "Mariquita" ],
+    "names" : [ "Mariquita", "Mariquita" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.64795, 7.37565 ]
+    },
+    "properties" : {
+      "titles" : "Pamplona",
+      "annotations" : 4
+    },
+    "uris" : [ "http://sws.geonames.org/3673045" ],
+    "titles" : [ "Pamplona" ],
+    "names" : [ "Памплона", "Pamplona" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -74.00481, 5.02208 ]
+    },
+    "properties" : {
+      "titles" : "Zipaquirá",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3665542" ],
+    "titles" : [ "Zipaquirá" ],
+    "names" : [ "Zipaquirá", "Zipaquirá", "Zipaquirá", "Zipaquirá", "Сипакира", "錫帕基拉" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.40788, 3.03586 ]
+    },
+    "properties" : {
+      "titles" : "Caloto",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/3687880" ],
+    "titles" : [ "Caloto" ],
+    "names" : [ "Caloto" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.50332, 7.88696 ]
+    },
+    "properties" : {
+      "titles" : "San Jose de Cucuta",
+      "annotations" : 4
+    },
+    "uris" : [ "http://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:5000035" ],
+    "titles" : [ "San Jose de Cucuta" ],
+    "names" : [ "San Jose de Cucuta", "San Jose de Guasimales" ],
+    "place_types" : [ "Villa" ],
+    "source_gazetteers" : [ "indias_13k_slim" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -76.30361, 3.53944 ]
+    },
+    "properties" : {
+      "titles" : "Palmira",
+      "annotations" : 3
+    },
+    "uris" : [ "http://sws.geonames.org/3673164" ],
+    "titles" : [ "Palmira" ],
+    "names" : [ "Palmira" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -73.41833, 6.2464 ]
+    },
+    "properties" : {
+      "titles" : "Guadalupe",
+      "annotations" : 2
+    },
+    "uris" : [ "http://sws.geonames.org/3681732" ],
+    "titles" : [ "Guadalupe" ],
+    "names" : [ "Guadalupe" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.73233, 6.69903 ]
+    },
+    "properties" : {
+      "titles" : "Málaga",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3675605" ],
+    "titles" : [ "Málaga" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -75.51444, 10.39972 ]
+    },
+    "properties" : {
+      "titles" : "Cartagena",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3687238" ],
+    "titles" : [ "Cartagena" ],
+    "names" : [ "Cartagena de Indias", "Cartagena", "Carthagène des Indes", "Cartagena de Indias", "カルタヘナ", "Cartagena das Índias", "Картахена", "Cartagena", "قرطاجنة، كولومبيا", "卡塔赫纳", "Cartagena", "Cartagena de Indias", "Cartagena de Indias", "Carthagène" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.80586, 5.80263 ]
+    },
+    "properties" : {
+      "titles" : "Gámeza",
+      "annotations" : 1
+    },
+    "uris" : [ "http://sws.geonames.org/3682172" ],
+    "titles" : [ "Gámeza" ],
+    "names" : [ "Gámeza" ],
+    "source_gazetteers" : [ "http://www.geonames.org" ]
+  } ]
+}
